@@ -89,6 +89,12 @@
             padding: 10% 0 5% 10%;
             border-bottom-right-radius: 180px;
         }
+        #m {
+            margin-left: 22.5%;
+        }
+        #y {
+            margin-left: 16%;
+        }
         input {
             height: 10%;
             width: 20%;
